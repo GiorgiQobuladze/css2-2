@@ -1,0 +1,204 @@
+#list1 {
+    width: 1140px;
+    padding: 12px 80px;
+    margin: 0 auto;
+}
+
+#list2 {
+    width: 980px;
+    height: 48px;
+    margin: 0 auto;
+}
+
+#list3 {
+    width: 105px;
+    height: 33px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    padding: 8px 16px;
+    margin-top: -58px;
+    margin-left: auto;
+}
+
+#blok6 {
+    color: #FFF;
+    width: 73px;
+    height: 17px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px
+}
+
+#blok2 {
+    width: 54px;
+    height: 22px;
+    color: #FF5DA3;
+    font-size: 18px;
+    margin-left: 100px;
+    display: inline-block;
+}
+
+#blok3 {
+    width: 127px;
+    height: 22px;
+    color: #323232;
+    font-size: 18px;
+    margin-left: 20px;
+    display: inline-block;
+
+}
+
+#blok4 {
+    color: #323232;
+    font-size: 18px;
+    width: 68px;
+    height: 22px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+#blok5 {
+    color: #323232;
+    font-size: 18px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+#list4 {
+    width: 1316px;
+    height: 543px;
+    margin: auto;
+}
+
+#blok7 {
+    width: 1316px;
+    height: 174px;
+    font-size: 72px;
+    text-align: center;
+}
+
+span {
+    color: #FF5DA3;
+}
+
+#blok8 {
+    width: 1316px;
+    height: 64px;
+    font-size: 24px;
+    text-align: center;
+}
+
+#blok9 {
+    width: 1316px;
+    height: 59px;
+    font-size: 48px;
+    color: #000;
+    text-align: center;
+}
+
+#blok10 {
+    width: 716px;
+    height: 96px;
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    margin: auto;
+}
+
+#list5 {
+    width: 233px;
+    height: 54px;
+    background-color: #00AC25;
+    border-radius: 8px;
+    padding: 16px 24px;
+    margin: auto;
+}
+
+#blok11 {
+    width: 185px;
+    height: 22px;
+    font-size: 18px;
+    text-align: center;
+    color: #FFF;
+}
+
+#list6 {
+    background-color: #53389E;
+    width: 100%;
+    height: 128px;
+    margin-top: 535px;
+}
+
+#list7 {
+    width: 1280px;
+    height: 32px;
+    margin: auto;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#blok12 {
+    width: 32px;
+    height: 16px;
+    border-radius: 0px 0px 8px 8px;
+    background-color: white;
+}
+
+#blok13 {
+    display: inline-block;
+    width: 139px;
+    height: 32px;
+    color: white;
+    margin-left: 10px;
+}
+
+#bloks1 {
+    width: 74px;
+    height: 24px;
+    color: white;
+    display: inline-block;
+    margin-left: 300px;
+}
+
+#bloks2 {
+    width: 68px;
+    height: 24px;
+    color: white;
+    display: inline-block;
+}
+
+#bloks3 {
+    width: 54px;
+    height: 24px;
+    color: white;
+    display: inline-block;
+}
+
+#bloks4 {
+    width: 62px;
+    height: 24px;
+    color: white;
+    display: inline-block;
+}
+
+#bloks5 {
+    width: 36px;
+    height: 24px;
+    color: white;
+    display: inline-block;
+}
+
+#bloks6 {
+    width: 58px;
+    height: 24px;
+    color: white;
+    display: inline-block;
+}
+
+#bloks7 {
+    width: 160px;
+    height: 24px;
+    display: inline-block;
+    color: white;
+    margin-left: 250px;
+}
